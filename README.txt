@@ -1,5 +1,5 @@
-This is a course I have taken in Fall 2016. 
-A course on solving complex computational optimization problems in a real-world environment.
+This is a course taught by Prof. Ned Dimitrov on solving complex computational optimization problems in a real-world environment.
+I have taken this course in Fall 2016. 
 
 Entirely Python.
 
