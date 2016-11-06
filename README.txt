@@ -3,7 +3,8 @@ I have taken this course in Fall 2016.
 
 Entirely Python.
 
-I collect my works for HWs and my final projects. 
+I collect my works for HWs,some Integer Programming exercises and my final projects. 
+
 Each HW folder will contains: 1. code 2. HW_guide 3. raw_data 4.results
 
 Here is a summary of HWs and final projects.
