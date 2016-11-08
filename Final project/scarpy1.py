@@ -47,5 +47,3 @@ class MovieBudgetSpider(scrapy.Spider):
 
             print "=" * 50 
             yield movie_budget_item
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Status Help
