@@ -38,5 +38,6 @@ name,source
  "imdb_score”,homepage 
 "aspect_ratio”,homepage,Technical Specs
 
+http://blog.dlib.net/2014/04/dlib-187-released-make-your-own-object.html
 
  
