@@ -1,13 +1,27 @@
 Steps:
 
-1. Web scrapy 
-2. Perform face detection
-https://blog.nycdatascience.com/student-works/machine-learning/movie-rating-prediction/
-3. Feature elimination (May use RFE in scikit learn)
-http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html
+1. Web scraping
+Use a Python package Scrapy.
+Source website: The number & Imdb
 
-Variable to get: 28 variables
-name,source
+2. EDA 
+i. How the quality of movies varies among countries?
+ii. How the total amount of movie production changes among years?
+iii. How total number of facebook likes affects gross?  
+iv. Word cloud 
+
+3. Prediction
+i. prediction for imdb score
+ii. prediction for gross
+
+
+
+
+
+
+
+Appendix
+Variable_name,location_on_imdb
 "movie_title”,homepage
 "color”,homepage,Details,Technical Specs
 "num_critic_for_reviews”,homepage
@@ -38,13 +52,7 @@ name,source
  "imdb_score”,homepage 
 "aspect_ratio”,homepage,Technical Specs
 
-
-EDA: 
-1. How the quality of movies varies among countries?
-2. How the total amount of movie production changes among years?
-3. How total number of facebook likes affects gross?  
-
-
+Reference:
 http://blog.dlib.net/2014/04/dlib-187-released-make-your-own-object.html
 
  
