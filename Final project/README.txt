@@ -38,6 +38,13 @@ name,source
  "imdb_score”,homepage 
 "aspect_ratio”,homepage,Technical Specs
 
+
+EDA: 
+1. How the quality of movies varies among countries?
+2. How the total amount of movie production changes among years?
+3. How total number of facebook likes affects gross?  
+
+
 http://blog.dlib.net/2014/04/dlib-187-released-make-your-own-object.html
 
  
