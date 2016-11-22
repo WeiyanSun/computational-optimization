@@ -1,0 +1,506 @@
+movie_title,imdb_score,predict
+Kickboxer: Vengeance,9.1,5.47033160188
+The Lord of the Rings: The Fellowship of the Ring,8.8,8.59102965433
+Running Forever,8.6,6.68721745681
+American History X,8.6,8.46228784594
+The Green Mile,8.5,8.54905496704
+Entourage,8.5,8.27208468268
+Back to the Future,8.5,8.55628929275
+The Dark Knight Rises,8.5,8.17946179896
+Samsara,8.5,7.1965470608
+"Batman: The Dark Knight Returns, Part 2",8.4,5.82273016289
+Amlie,8.4,8.30959769934
+Veronica Mars,8.4,7.52191534281
+A Separation,8.4,7.72278569308
+Trapped,8.2,7.64176254492
+The Elephant Man,8.2,7.53845474595
+Howl's Moving Castle,8.2,7.44296911993
+Gone with the Wind,8.2,8.3247521971
+V for Vendetta,8.2,8.34749158689
+Blade Runner,8.2,8.26193712497
+The Imitation Game,8.1,7.82294080691
+Before Sunrise,8.1,7.63431747025
+The Princess Bride,8.1,7.85368346391
+The Martian,8.1,7.78847508836
+The Bourne Ultimatum,8.1,7.32002651037
+Pirates of the Caribbean: The Curse of the Black Pearl,8.1,8.10472156206
+Gandhi,8.1,7.83942105522
+Woodstock,8.1,7.64360945661
+Casino Royale,8.0,7.37142751755
+Casino Royale,8.0,7.37142601396
+The Straight Story,8.0,7.27058916373
+Big Fish,8.0,7.36052109194
+Persepolis,8.0,7.20533981111
+Brazil,8.0,7.61607104237
+The Perks of Being a Wallflower,8.0,7.72402460142
+The King's Speech,8.0,7.78073289393
+Edge of Tomorrow,7.9,7.58156874919
+The Right Stuff,7.9,7.35424863812
+Glory,7.9,7.08183706367
+Glory,7.9,7.08183708229
+The Hateful Eight,7.9,7.65281415226
+Straight Outta Compton,7.9,7.26983364113
+X-Men: First Class,7.8,7.2508115325
+The Triplets of Belleville,7.8,7.44184455065
+The Prisoner of Zenda,7.8,6.88841495458
+The Jungle Book,7.8,7.17542310599
+3:10 to Yuma,7.8,7.25005361722
+The Hangover,7.8,7.71356879146
+Fantastic Mr. Fox,7.8,6.84236633746
+Ocean's Eleven,7.8,7.42103402528
+The Fault in Our Stars,7.8,7.5643800729
+The French Connection,7.8,7.816
+Malcolm X,7.7,6.78392303556
+Frost/Nixon,7.7,6.79729660503
+Flipped,7.7,6.22094955421
+Man on Fire,7.7,7.45906718757
+Road to Perdition,7.7,6.89656368008
+A Hard Day's Night,7.7,7.43470332781
+Star Trek II: The Wrath of Khan,7.7,7.22815147924
+Who Killed the Electric Car?,7.7,6.76708478805
+Sense and Sensibility,7.7,7.44570225791
+Nowhere in Africa,7.7,7.29514323769
+Ice Age,7.6,6.7795481164
+American Psycho,7.6,7.84819148227
+Escape from Alcatraz,7.6,7.1222938443
+The Flowers of War,7.6,6.42045141023
+My Life Without Me,7.6,6.90513657175
+Leaving Las Vegas,7.6,6.98018497834
+The Reader,7.6,7.35597417515
+The Hunger Games: Catching Fire,7.6,7.3381739295
+Total Recall,7.5,7.372
+My Cousin Vinny,7.5,7.01085296558
+In the Bedroom,7.5,6.62049281594
+Gangs of New York,7.5,7.36702625591
+51 Birch Street,7.5,6.70796644034
+X-Men 2,7.5,6.97710378051
+The Devil's Advocate,7.5,7.29864130499
+Saving Grace,7.5,7.484
+Miracle,7.5,6.91324367381
+The Bridges of Madison County,7.5,7.28903330628
+Rudderless,7.5,5.45379939807
+Sleepers,7.5,7.27376863753
+The Painted Veil,7.5,7.58103686699
+Pi,7.5,7.59272865858
+Frenzy,7.5,7.49875244006
+Fruitvale Station,7.5,6.47812358456
+Quills,7.4,7.25503899161
+The Love Letter,7.4,6.824
+Running Scared,7.4,7.21028369892
+Me and You and Everyone We Know,7.4,6.67899755623
+City Island,7.4,6.19105491488
+Eraserhead,7.4,7.53993358884
+Pirate Radio,7.4,6.93971340622
+In the Heat of the Night,7.4,7.27503127274
+The Way Way Back,7.4,6.58067011863
+Waking Ned Devine,7.4,6.71368836607
+"Pink Ribbons, Inc.",7.4,6.8604205919
+Grosse Pointe Blank,7.4,6.62872306522
+This Is It,7.3,5.42374093491
+Aberdeen,7.3,6.6387854437
+Exiled,7.3,7.05706880844
+Rise of the Guardians,7.3,6.44403501877
+Dr. No,7.3,7.69385319253
+From Dusk Till Dawn,7.3,7.29186363941
+"The Good, the Bad, the Weird",7.3,7.41820077983
+Cube,7.3,7.4670894208
+Precious,7.3,7.16398648893
+Erin Brockovich,7.3,7.06942156968
+Dinner Rush,7.3,6.8644850872
+Thirteen Days,7.3,6.74104759622
+Superman,7.3,7.18958495251
+The Man from U.N.C.L.E.,7.3,6.70780717638
+Election,7.3,6.50073761211
+The Croods,7.3,6.58206126419
+Tsotsi,7.3,7.464926886
+Deadline - U.S.A.,7.2,6.44016727056
+Unbroken,7.2,7.104
+The Peanuts Movie,7.2,5.41079232273
+Old School,7.2,6.83293377104
+Now Is Good,7.2,6.92153718182
+Pay It Forward,7.2,7.21649863611
+Steve Jobs,7.2,7.01114451913
+Escape from New York,7.2,7.4251548359
+Trash,7.2,6.61103805447
+Winter's Bone,7.2,6.92376253991
+King Kong,7.2,7.19999145014
+Mallrats,7.2,7.38994026234
+11:14,7.2,5.97101228924
+The Virgin Suicides,7.2,7.13975734433
+An American in Hollywood,7.2,4.49024754525
+Chasing Mavericks,7.2,6.20561965403
+The Words,7.1,6.30403217914
+Infamous,7.1,6.67863817232
+Anastasia,7.1,6.80150218193
+Bottle Rocket,7.1,6.66862198858
+Mrs Henderson Presents,7.1,6.3698301017
+Die Hard 2,7.1,7.29312751618
+Holes,7.1,6.87839242522
+The Spectacular Now,7.1,6.61384993166
+Marley & Me,7.1,6.61515444796
+The Ballad of Gregorio Cortez,7.1,5.7127834414
+Bronson,7.1,7.00329496851
+The Quiet American,7.1,5.80503297168
+The Railway Man,7.1,6.25453332385
+Super 8,7.1,7.30268538549
+The Devil's Double,7.1,6.17288300658
+Body of Lies,7.1,6.74504233723
+"I, Robot",7.1,7.32082192335
+Holy Motors,7.1,6.98626647064
+Jason Bourne,7.1,6.24348193358
+The Charge of the Light Brigade,7.1,6.68712674357
+The Rainmaker,7.1,6.68167013101
+Super Troopers,7.1,6.76539472508
+Cloudy with a Chance of Meatballs,7.0,6.60263763453
+A Dog's Breakfast,7.0,6.968
+Unleashed,7.0,6.12941021415
+The Bounty,7.0,6.63623322769
+Time Bandits,7.0,7.15157713328
+Annie Get Your Gun,7.0,7.08795440996
+Spirit: Stallion of the Cimarron,7.0,6.27144878476
+An Unfinished Life,7.0,6.36879654715
+Rio,7.0,6.49892223905
+Another Earth,7.0,6.31005928223
+The Host,7.0,6.88896104858
+Cinderella,7.0,6.99194177888
+Little Voice,7.0,6.05478768864
+Defiance,7.0,8.0604594387
+I Am Love,7.0,7.29072863555
+The Neon Demon,7.0,6.74275787298
+Bon Cop Bad Cop,7.0,6.48650832417
+Pacific Rim,7.0,6.92419889828
+What Dreams May Come,7.0,7.1874435462
+Bobby,7.0,6.37337075321
+Black Snake Moan,7.0,6.86359859797
+The Iceman,6.9,6.70641974514
+The Molly Maguires,6.9,6.29275353317
+Mrs. Doubtfire,6.9,7.09703607837
+Unknown,6.9,6.97999160024
+The Last Big Thing,6.9,6.24815252099
+Imagine Me & You,6.9,6.5918107444
+Top Gun,6.9,7.69036673129
+El Mariachi,6.9,6.85326816869
+A Good Year,6.9,6.83637887485
+Bon voyage,6.9,6.98505818558
+Return to Me,6.9,6.35512270646
+Mumford,6.9,6.2038303172
+Wild Target,6.9,6.60162832963
+Jersey Boys,6.9,6.33008548132
+Defendor,6.8,6.50360133667
+Solitude,6.8,6.23141346699
+Out of the Furnace,6.8,6.32377186904
+Family Plot,6.8,7.12900700913
+Babe,6.8,6.42608649573
+La Bamba,6.8,6.73310877992
+Wal-Mart: The High Cost of Low Price,6.8,7.48074828344
+Adventureland,6.8,6.68885920507
+Con Air,6.8,7.11285931858
+Everything You Always Wanted to Know About Sex * But Were Afraid to Ask,6.8,6.83942459483
+Thirteen,6.8,6.44810994725
+The Man with the Golden Gun,6.8,6.79039824788
+Flirting with Disaster,6.8,5.88507146009
+Coco Before Chanel,6.7,7.2304295662
+Pride and Glory,6.7,6.5355365266
+Catch a Fire,6.7,5.48384039229
+The Soloist,6.7,6.73057649194
+Hidalgo,6.7,6.82097211773
+May,6.7,6.76360448678
+Old Joy,6.7,6.21033342004
+Event Horizon,6.7,7.45220269766
+Bruce Almighty,6.7,6.73657167305
+American Reunion,6.7,6.63349619844
+Penguins of Madagascar,6.7,6.02324278515
+"The Beast from 20,000 Fathoms",6.7,6.95404627736
+Albert Nobbs,6.7,7.0042085594
+Safe Haven,6.7,6.64711826006
+Robin Hood,6.7,6.47447156783
+Divergent,6.7,7.23948510338
+The Hoax,6.7,6.42809347416
+Torn Curtain,6.7,7.28597518098
+The Long Kiss Goodnight,6.7,6.58302905181
+The Hunger Games: Mockingjay - Part 1,6.7,6.99006908353
+Absolute Power,6.7,6.18627756222
+Nothing to Lose,6.7,6.0101015093
+The Beaver,6.7,6.31107468717
+Hocus Pocus,6.7,7.0874941523
+Hairspray,6.7,6.58731091322
+Mommie Dearest,6.7,6.68079701497
+Ramona and Beezus,6.7,5.67050356279
+Australia,6.6,6.75250787147
+Wyatt Earp,6.6,6.86430953894
+Cotton Comes to Harlem,6.6,6.19800552854
+Living Out Loud,6.6,5.45658971492
+The Immigrant,6.6,6.1947610253
+Sur le seuil,6.6,6.28462626608
+Monster House,6.6,6.12589065281
+16 Blocks,6.6,6.07402618311
+Octopussy,6.6,6.83396868997
+Ice Age: Continental Drift,6.6,6.54280631858
+Diary of a Wimpy Kid: Rodrick Rules,6.6,5.40052026928
+The Flower of Evil,6.6,6.84475902151
+The Egyptian,6.6,6.74637696391
+Incident at Loch Ness,6.6,6.7100134816
+Black or White,6.6,5.60598074967
+The Greatest Story Ever Told,6.6,6.99192496547
+The Legend of Tarzan,6.6,6.36
+Interview with the Assassin,6.6,6.58530544094
+The Last House on the Left,6.6,6.67198548817
+Bad Boys II,6.6,6.68711411156
+"Run, Fatboy, Run",6.6,6.57626748585
+Star Trek III: The Search for Spock,6.6,6.58358283916
+Vantage Point,6.6,6.13027326163
+Austin Powers: The Spy Who Shagged Me,6.6,6.25216377983
+Think Like a Man,6.6,6.44665155891
+Kiss the Girls,6.6,6.09350609186
+The Funeral,6.6,6.09855098253
+Don Jon,6.6,6.97260662904
+Drop Dead Gorgeous,6.5,5.92984586764
+Alice in Wonderland,6.5,6.57202285594
+Boynton Beach Club,6.5,6.37224350818
+Homefront,6.5,5.98417078347
+Spanglish,6.5,6.39273525505
+The Claim,6.5,6.564
+Cloudy with a Chance of Meatballs 2,6.5,6.18720920781
+Dolphins and Whales 3D: Tribes of the Ocean,6.5,7.25929873594
+For Love of the Game,6.5,6.53359273178
+Swordfish,6.5,6.45811083693
+Ira & Abby,6.5,6.18245059843
+The DUFF,6.5,5.94429597856
+Changing Lanes,6.5,5.65761735203
+The Joneses,6.5,6.38947735621
+In Good Company,6.5,5.85843544983
+Stop-Loss,6.5,6.56020806527
+A Perfect Getaway,6.5,6.40310037874
+Blended,6.5,6.03332158345
+The Longest Yard,6.4,6.18155547927
+Bang,6.4,5.50726086946
+Feast,6.4,6.20497381484
+Paper Towns,6.4,6.11636982103
+Burlesque,6.4,6.0725897167
+Rio 2,6.4,6.26804872164
+Van Wilder: Party Liaison,6.4,6.39504162102
+ABCD (Any Body Can Dance),6.4,6.64258710494
+Funny People,6.4,6.59251674195
+She's the Man,6.4,6.46413531185
+Minions,6.4,6.66246406181
+Oz the Great and Powerful,6.4,6.39200602511
+Big Daddy,6.4,6.30649909554
+Smilla's Sense of Snow,6.4,6.75410043494
+Psycho Beach Party,6.3,5.86757157986
+Hardball,6.3,5.94661534538
+Wild Grass,6.3,6.49730166369
+March or Die,6.3,5.79416648077
+Sydney White,6.3,5.94817338217
+To Rome with Love,6.3,6.41155535355
+Devil,6.3,5.90748225436
+Wimbledon,6.3,6.33449039122
+Palo Alto,6.3,6.27325679897
+Snow White: A Tale of Terror,6.3,5.7097688281
+The Boondock Saints II: All Saints Day,6.3,6.75511774264
+Transformers: Dark of the Moon,6.3,7.00105438064
+Going the Distance,6.3,6.23351422645
+Cars 2,6.3,6.51231794861
+Transporter 2,6.3,6.56677850905
+Out Cold,6.3,5.63221151401
+Tin Cup,6.3,6.41130659223
+The Mummy Returns,6.3,6.42780566663
+Casino Jack,6.2,6.79586653162
+Poultrygeist: Night of the Chicken Dead,6.2,6.53153205961
+Mirrors,6.2,6.72978817989
+All the King's Men,6.2,6.05943466336
+Mad Max Beyond Thunderdome,6.2,6.39867015638
+Step Up 2: The Streets,6.2,5.99030076001
+Firestorm,6.2,6.82537952879
+The Fifth Estate,6.2,6.18618602933
+Krampus,6.2,5.50353608408
+Beyond the Valley of the Dolls,6.2,6.9216931141
+Flicka,6.2,5.2321852516
+Illuminata,6.2,6.53005766525
+The Men Who Stare at Goats,6.2,6.80763752258
+Miss Congeniality,6.2,6.53988039292
+Adore,6.2,6.75760718954
+Case 39,6.2,6.08522429396
+Practical Magic,6.1,6.56224706139
+Snow Flower and the Secret Fan,6.1,6.53329189506
+Flashdance,6.1,6.89131122341
+Beneath the Planet of the Apes,6.1,6.27753868019
+Eye for an Eye,6.1,6.111215731
+Fun with Dick and Jane,6.1,5.82380075472
+This Christmas,6.1,5.75467090708
+Jeepers Creepers,6.1,6.12414868813
+Captain Alatriste: The Spanish Musketeer,6.1,6.52039967186
+The Killer Inside Me,6.1,6.09956352593
+Anywhere But Here,6.1,6.14084898883
+The Sweeney,6.1,6.35461740124
+About Last Night,6.1,5.68104981272
+15 Minutes,6.1,5.75089950604
+Down and Out with the Dolls,6.1,6.24883953235
+Ben-Hur,6.1,6.27200571315
+13 Going on 30,6.1,6.27718931716
+Automata,6.1,6.13187340736
+Drinking Buddies,6.1,6.11978966144
+Larry Crowne,6.1,6.17210370126
+Our Brand Is Crisis,6.1,5.99092393106
+Sky Captain and the World of Tomorrow,6.1,5.75446622981
+On the Road,6.1,6.334665695
+The Last Witch Hunter,6.0,6.02584539544
+Saving Private Perez,6.0,6.01223094319
+Plastic,6.0,5.82096242629
+Dirty Grandpa,6.0,6.02469793338
+Desert Dancer,6.0,6.16539852208
+The Alamo,6.0,5.896
+Mr. Popper's Penguins,6.0,6.18277400649
+ATL,6.0,6.14892350206
+Roll Bounce,6.0,6.01233066998
+Pushing Tin,6.0,6.45128278512
+Jack Brooks: Monster Slayer,6.0,5.54588940912
+Circle,6.0,5.63425120898
+Grown Ups,6.0,5.9937331982
+Another Happy Day,6.0,6.30724943242
+Transformers: Revenge of the Fallen,6.0,6.59613714667
+World Trade Center,6.0,6.31097552127
+Doomsday,6.0,7.12874945134
+Straight Out of Brooklyn,5.9,5.58702989992
+Ride Along 2,5.9,5.94665038219
+Legal Eagles,5.9,5.55818430773
+Stuart Little,5.9,6.21519158678
+Resident Evil: Afterlife,5.9,6.57258049101
+At First Sight,5.9,6.2455933927
+The Indian in the Cupboard,5.9,6.24129737646
+The Good Night,5.9,5.94785884173
+The Wraith,5.9,6.42198896283
+Poetic Justice,5.9,5.97188371176
+The Texas Chainsaw Massacre: The Beginning,5.9,5.77174775336
+Return of the Living Dead III,5.9,5.80191307027
+Hostel,5.9,6.95408156029
+Do You Believe?,5.9,5.35632718336
+Saw V,5.8,5.32425712729
+The Christmas Candle,5.8,5.13823309778
+Deep Blue Sea,5.8,6.18498366306
+Molly,5.8,5.51885694302
+The To Do List,5.8,6.09227479787
+Rubber,5.8,6.57973714261
+The Nut Job,5.8,6.13937033528
+Amigo,5.8,6.19054252647
+Babe: Pig in the City,5.8,5.94621107878
+The Borrowers,5.8,5.52931136998
+Timecop,5.8,6.33108022734
+The Three Musketeers,5.8,6.36608414595
+Men of War,5.8,5.20953401898
+The Net,5.8,6.38708153478
+Return to Never Land,5.8,6.33222915985
+Clash of the Titans,5.8,5.92005533243
+Duplex,5.8,5.76461163363
+The Best Little Whorehouse in Texas,5.8,6.80058553829
+Thinner,5.7,6.52019949895
+Grace of Monaco,5.7,5.98292424643
+Reindeer Games,5.7,6.33491342503
+The Watch,5.7,5.82007499811
+Sgt. Bilko,5.7,5.19277786325
+The Little Vampire,5.7,5.86284294692
+The Purge,5.7,6.48318904769
+Magic Mike XXL,5.7,6.401767027
+Witchboard,5.7,6.02247759896
+The Blue Lagoon,5.7,6.41892731846
+Brick Mansions,5.7,6.26889698307
+"War, Inc.",5.7,6.36169318857
+White Noise 2: The Light,5.7,5.21431741815
+"Ultramarines: A Warhammer 40,000 Movie",5.7,5.95316768674
+The Muse,5.6,5.42959061324
+Listening,5.6,4.96099829834
+Imagine That,5.6,5.63851438336
+The Stepfather,5.6,5.37544937967
+40 Days and 40 Nights,5.6,5.75951737113
+Malone,5.6,6.14012364191
+Failure to Launch,5.6,5.82877639173
+Pokmon 3: The Movie,5.6,5.16131269975
+12 Rounds,5.6,5.78661139326
+Survivor,5.6,5.49551030399
+"Dude, Where's My Car?",5.5,6.51715891058
+Hop,5.5,5.94933446272
+The Wendell Baker Story,5.5,5.8459133747
+You Don't Mess with the Zohan,5.5,6.32722750919
+Charlie's Angels,5.5,6.08774531723
+Casa de mi Padre,5.5,6.37114076339
+Double Impact,5.5,6.16561448575
+Creative Control,5.5,6.0426019261
+The Day the Earth Stood Still,5.5,5.74802121258
+The Jimmy Show,5.4,5.92218227572
+The Tempest,5.4,5.72076317008
+Tusk,5.4,5.94067393242
+Head Over Heels,5.4,5.33105566282
+The Spy Next Door,5.4,5.0913803891
+See Spot Run,5.4,5.52139382021
+Invasion U.S.A.,5.3,6.18185167976
+Just My Luck,5.3,5.82296105512
+Always Woodstock,5.3,5.6010591018
+Tomcats,5.3,5.34585901587
+Peeples,5.3,5.05191629457
+Fled,5.3,5.68796576539
+Housefull,5.3,5.93078992381
+Bride of Chucky,5.3,5.78480473031
+Double Take,5.3,6.03573937526
+Stomp the Yard,5.2,5.81223420147
+Action Jackson,5.2,5.52805155456
+Donkey Punch,5.2,7.22764923487
+Speedway Junky,5.2,5.5960747547
+Stealing Harvard,5.1,5.12017540101
+Vaalu,5.1,5.40561166317
+Malibu's Most Wanted,5.1,4.76260469034
+Stealing Harvard,5.1,5.12017540101
+Scary Movie 4,5.1,5.12104837281
+Thr3e,5.1,5.73454486163
+Here on Earth,5.1,5.15904124978
+Doug's 1st Movie,5.0,4.24037867037
+Abduction,5.0,6.47582630174
+Brave New Girl,5.0,5.71691145328
+Meet Dave,4.9,5.65435577981
+The Phantom,4.9,6.07049044015
+Adulterers,4.9,5.35441593817
+Ghosts of Mars,4.9,6.15711886064
+The Haunted Mansion,4.9,5.10663854611
+The Cold Light of Day,4.9,5.83664740923
+The Forest,4.8,6.00150273346
+High School Musical 2,4.8,6.3787355112
+Envy,4.8,5.71982438469
+My Soul to Take,4.8,5.2
+Black Rock,4.7,5.38361773492
+The Perfect Wave,4.7,5.02699907125
+Anacondas: The Hunt for the Blood Orchid,4.6,5.80652254631
+The Wicked Within,4.6,4.50202018213
+The In Crowd,4.6,5.4111205506
+Yogi Bear,4.6,5.63036739052
+"Legally Blonde 2: Red, White & Blonde",4.6,5.39523515921
+The Opposite Sex,4.5,5.86507681879
+Below Zero,4.5,5.23039941863
+Black Christmas,4.5,6.10448045034
+High School Musical 3: Senior Year,4.5,6.018783213
+Agent Cody Banks 2: Destination London,4.5,5.60295974747
+Code Name: The Cleaner,4.5,4.21918144477
+The Perfect Match,4.5,5.54298679471
+Paul Blart: Mall Cop 2,4.4,5.77213073609
+Fantastic Four,4.3,4.436
+Def-Con 4,4.3,5.766261375
+xXx: State of the Union,4.3,5.58545580774
+The Gallows,4.2,5.61457230566
+The Last Airbender,4.2,5.69377654153
+Basic Instinct 2,4.2,6.25779649644
+The Legend of Hercules,4.2,5.84375592898
+Fifty Shades of Grey,4.1,6.98664510935
+On the Line,4.1,5.52159332548
+I Can Do Bad All by Myself,4.1,5.86257326103
+Go for It!,3.9,5.93528868367
+AWOL-72,3.9,4.34436178575
+I Got the Hook Up,3.9,5.1672487574
+Blonde Ambition,3.9,5.28047983362
+Beastmaster 2: Through the Portal of Time,3.8,5.62387175575
+Mortal Kombat: Annihilation,3.7,4.44846556453
+Spy Kids: All the Time in the World in 4D,3.6,5.71451933918
+The Adventures of Sharkboy and Lavagirl 3-D,3.5,5.65942186254
+How She Move,3.3,4.95670112385
+#Horror,3.3,5.02686031854
+Alien Uprising,3.1,5.55161528438
+Steel,2.8,6.08390528123
+The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,2.7,5.38091928065
+Baby Geniuses,2.5,6.31904383622
+From Justin to Kelly,2.1,5.63335011077
