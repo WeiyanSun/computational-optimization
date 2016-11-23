@@ -44,10 +44,10 @@ def flow_bal_rule(m,n):
 
 m.FlowBal=pe.Constraint(m.node_set,rule=flow_bal_rule)
 
-# if this is only one constraint instead of loop over all set
-def loc_rule(m):
-	return sum(m.Y[i] for i in m.loc_set)==2
-m.LocRul=pe.Constraint(rule=loc_rule)
+# # if this is only one constraint instead of loop over all set
+# def loc_rule(m):
+# 	return sum(m.Y[i] for i in m.loc_set)==2
+# m.LocRul=pe.Constraint(rule=loc_rule)
 
 
 
@@ -55,10 +55,10 @@ m.LocRul=pe.Constraint(rule=loc_rule)
 solver=pyomo.opt.SolverFactory("cplex")
 results = solver.solve(m, tee=True, keepfiles=False, options_string="mip_tolerances_integrality=1e-9 mip_tolerances_mipgap=0")
 
-if (results.solver.status != pyomo.opt.SolverStatus.ok):
-    logging.warning('Check solver not ok?')
-if (results.solver.termination_condition != pyomo.opt.TerminationCondition.optimal):  
-    logging.warning('Check solver optimality?') 
+# if (results.solver.status != pyomo.opt.SolverStatus.ok):
+#     logging.warning('Check solver not ok?')
+# if (results.solver.termination_condition != pyomo.opt.TerminationCondition.optimal):  
+#     logging.warning('Check solver optimality?') 
 
 # Use this to get the final objective function results
 m.OBJ()
